@@ -1,0 +1,12 @@
+{INFO}  com.techbee.AppTest   cookie accepted                     18-Sep-2021 Saturday EDT 13:53:45
+{INFO}  com.techbee.AppTest   cookie accepted                     18-Sep-2021 Saturday EDT 13:53:49
+{INFO}  com.techbee.AppTest   Text when Aspiration Button is clicked is: Aspiration                     18-Sep-2021 Saturday EDT 13:53:49
+{INFO}  com.techbee.AppTest   Text when Aspiration Plus Button is clicked is: Aspiration Plus                     18-Sep-2021 Saturday EDT 13:53:49
+{INFO}  com.techbee.AppTest   Assertion of Text Buttons complete.....                     18-Sep-2021 Saturday EDT 13:53:49
+{INFO}  com.techbee.AppTest   Get Aspiration Clicked!                     18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   Modal doesn't have an input tag                     18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   Modal from the aspiration closed                     18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   Aspiration Plus button clicked!                     18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   yearly shows $71.88 paid once yearly                      18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   Monthly shows:$7.99 paid monthly                      18-Sep-2021 Saturday EDT 13:53:50
+{INFO}  com.techbee.AppTest   driver closed                     18-Sep-2021 Saturday EDT 13:53:51
